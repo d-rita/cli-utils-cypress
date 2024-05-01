@@ -1,3 +1,10 @@
+## [10.0.4](https://github.com/dhis2/cli-utils-cypress/compare/v10.0.3...v10.0.4) (2024-05-01)
+
+
+### Bug Fixes
+
+* allow cypress@^13 as a peer dependency ([ac53fd3](https://github.com/dhis2/cli-utils-cypress/commit/ac53fd3d66b4ba36d182434d9c13227c44c93f0e))
+
 ## [10.0.3](https://github.com/dhis2/cli-utils-cypress/compare/v10.0.2...v10.0.3) (2023-05-23)
 
 

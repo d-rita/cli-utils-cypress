@@ -1,3 +1,10 @@
+## [10.0.5](https://github.com/dhis2/cli-utils-cypress/compare/v10.0.4...v10.0.5) (2024-05-06)
+
+
+### Bug Fixes
+
+* **cucumber peer deps:** allow >=15 instead of ^15 ([86cd6fb](https://github.com/dhis2/cli-utils-cypress/commit/86cd6fb95129a6e7775f6a98ec6e492983191449))
+
 ## [10.0.4](https://github.com/dhis2/cli-utils-cypress/compare/v10.0.3...v10.0.4) (2024-05-01)
 
 

@@ -1,3 +1,10 @@
+## [10.0.6](https://github.com/dhis2/cli-utils-cypress/compare/v10.0.5...v10.0.6) (2024-05-24)
+
+
+### Bug Fixes
+
+* **loginByAPI:** update loginByApi cypress command to support v42 ([#402](https://github.com/dhis2/cli-utils-cypress/issues/402)) ([6109ee5](https://github.com/dhis2/cli-utils-cypress/commit/6109ee55e285adadec81b63bdadc6d4d56df7248))
+
 ## [10.0.5](https://github.com/dhis2/cli-utils-cypress/compare/v10.0.4...v10.0.5) (2024-05-06)
 
 

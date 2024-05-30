@@ -14,7 +14,7 @@ Here's a short list of thing that need to be updated:
     directly. The
     [`package.json`](https://github.com/dhis2/aggregate-data-entry-app/blob/master/package.json)
     of the Aggregate Data Entry app is a good example.
--   Cypress needs to be upgraded to version ^12.7.0
+-   Upgrade cypress to the lastest version (must be `>=12.7.0`)
 -   Cypress now uses `cypress.config.js` instead of `cypress.json`
 -   If you're using cucumber, the `cypress-cucumber-preprocessor` package has to
     be replaced with `@badeball/cypress-cucumber-preprocessor`
@@ -32,3 +32,4 @@ Here's a short list of thing that need to be updated:
     you were doing end-to-end tests; For component testing, please refer to the
     official documentation)
 -   The `cypress/support/index.js` should be renamed to `cypress/support/e2e.js`
+-   In case you are using [Cypress GitHub Action](https://github.com/marketplace/actions/cypress-io), make sure you are on version 5 or newer.
